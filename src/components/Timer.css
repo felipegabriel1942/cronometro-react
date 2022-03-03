@@ -1,0 +1,9 @@
+.Timer div {
+  display: flex;
+  justify-content: center;
+}
+
+.Timer h2 {
+  display: flex;
+  justify-content: center;
+}
